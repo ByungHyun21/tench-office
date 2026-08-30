@@ -10,7 +10,7 @@ Docs · Sheets · Slides · Kodocs — 네 개의 편집기가 내 PC에서 그�
 [![Framework: Tauri 2](https://img.shields.io/badge/Framework-Tauri_2-FFC140.svg)](https://v2.tauri.app/)
 [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-red.svg)](#license)
 [![Status: Preview](https://img.shields.io/badge/Status-Preview-orange.svg)](#roadmap)
-[![Pricing: $1/mo](https://img.shields.io/badge/Pricing-%241%2Fmo-1ca096.svg)](https://tenchsoft.com/pricing)
+[![Pricing: $2/mo](https://img.shields.io/badge/Pricing-%242%2Fmo-1ca096.svg)](https://tenchsoft.com/pricing)
 
 [English](README.md) · [한국어](README.ko.md)
 
@@ -22,7 +22,7 @@ Docs · Sheets · Slides · Kodocs — 네 개의 편집기가 내 PC에서 그�
 
 Tench Office는 100% Rust + Tauri 2로 구축된 크로스플랫폼 오피스 스위트입니다. 네 개의 편집기가 모두 로컬에서 실행되며, 텔레메트리·계정·클라우드 동기화가 없습니다. AI 보조는 로컬 Tench Engine을 통해 처리되어 문서가 기기 밖으로 나가지 않습니다.
 
-Windows, macOS, Linux를 지원합니다. 기기당 월 $1 구독으로 네 개 편집기의 모든 업데이트를 받습니다. 언제든 취소 가능, 현재 버전은 계속 사용.
+Windows, macOS, Linux를 지원합니다. 기기당 월 $2 구독으로 네 개 편집기의 모든 업데이트를 받습니다. 언제든 취소 가능, 현재 버전은 계속 사용.
 
 ## 제품
 
@@ -90,7 +90,7 @@ cargo run --locked -p docs    # 또는: sheets, slides, kodocs
 
 ## 가격
 
-- **기기당 월 $1** — 모든 업데이트, 패치, 새 기능 포함.
+- **기기당 월 $2** — 모든 업데이트, 패치, 새 기능 포함.
 - 언제든 취소, 현재 버전 유지. 잠금 없음.
 
 → https://tenchsoft.com/pricing

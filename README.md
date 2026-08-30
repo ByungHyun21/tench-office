@@ -10,7 +10,7 @@ Docs · Sheets · Slides · Kodocs — four editors that respect your machine, y
 [![Framework: Tauri 2](https://img.shields.io/badge/Framework-Tauri_2-FFC140.svg)](https://v2.tauri.app/)
 [![License: UNLICENSED](https://img.shields.io/badge/License-UNLICENSED-red.svg)](#license)
 [![Status: Preview](https://img.shields.io/badge/Status-Preview-orange.svg)](#roadmap)
-[![Pricing: $1/mo](https://img.shields.io/badge/Pricing-%241%2Fmo-1ca096.svg)](https://tenchsoft.com/pricing)
+[![Pricing: $2/mo](https://img.shields.io/badge/Pricing-%242%2Fmo-1ca096.svg)](https://tenchsoft.com/pricing)
 
 [English](README.md) · [한국어](README.ko.md)
 
@@ -22,7 +22,7 @@ Docs · Sheets · Slides · Kodocs — four editors that respect your machine, y
 
 Tench Office is a cross-platform office suite built entirely in Rust with Tauri 2. It bundles four editors that run locally — no telemetry, no accounts, no server round-trips for editing. AI assistance flows through the local Tench Engine, so your documents never leave your machine.
 
-The suite targets Windows, macOS, and Linux. A single `$1/month` subscription per device unlocks every update across all four editors — cancel anytime, keep the version you have.
+The suite targets Windows, macOS, and Linux. A single `$2/month` subscription per device unlocks every update across all four editors — cancel anytime, keep the version you have.
 
 ## Products
 
@@ -90,7 +90,7 @@ cargo run --locked -p docs    # or: sheets, slides, kodocs
 
 ## Pricing
 
-- **$1 / month per device** — every update, every patch, every new feature.
+- **$2 / month per device** — every update, every patch, every new feature.
 - Cancel anytime, keep the version you have. No lock-out.
 
 → https://tenchsoft.com/pricing

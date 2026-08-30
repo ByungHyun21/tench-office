@@ -95,7 +95,7 @@ pub fn paint_menu_bar(p: &mut Painter<'_>, cache: &mut TextCache, rect: Rect, st
 /// label should be hidden (license is active).
 ///
 /// Behavior matches the spec:
-/// - license unauthenticated + no update available: fixed "$1/month" message
+/// - license unauthenticated + no update available: fixed "$2/month" message
 /// - license unauthenticated + update available: 2-message cycle, 5s each
 /// - license authenticated: hidden
 pub(super) fn notification_label_message(state: &DocsState) -> Option<&'static str> {
